@@ -1,0 +1,13 @@
+c:\users\crist_000\documents\visual studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\bin\Debug\WPF Reloj Analogico.exe.config
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\WPF Reloj Analogico.csprojResolveAssemblyReference.cache
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\MainWindow.baml
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\MainWindow.g.cs
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\App.g.cs
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\WPF Reloj Analogico_MarkupCompile.cache
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\WPF Reloj Analogico.g.resources
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\WPF_Reloj_Analogico.Properties.Resources.resources
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\WPF Reloj Analogico.csproj.GenerateResource.Cache
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\bin\Debug\WPF Reloj Analogico.exe
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\bin\Debug\WPF Reloj Analogico.pdb
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\WPF Reloj Analogico.exe
+C:\Users\Crist_000\Documents\Visual Studio 2012\Projects\WPF Reloj Analogico\WPF Reloj Analogico\obj\Debug\WPF Reloj Analogico.pdb
